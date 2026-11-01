@@ -1,0 +1,30 @@
+#first test case CSV output 
+
+Slope: 20.00
+Intercept: 180.00
+Predicted units (Month 5): 280.00
+Estimated bill: Rs. 1680.00
+
+
+#second test case CSV output 
+
+Slope: 50.00
+Intercept: 50.00
+Predicted units (Month 3): 200.00
+Estimated bill: Rs. 1200.00
+
+
+
+#third test case CSV output 
+
+Error: At least 2 months of data are required for prediction.
+
+
+#fourth test case CSV output
+
+Slope: 24.00
+Intercept: 75.00
+R2: 0.99
+Predicted units (Month 6): 219.00
+Estimated bill: Rs. 1314.00
+Line chart 'Actual vs Predicted' displayed.
