@@ -1,5 +1,5 @@
 """
-Electricity Usage Predictor
+Electricity Usage Predictorr
 Project No.: 62
 
 Loads past monthly electricity usage from a CSV file, fits a simple linear
